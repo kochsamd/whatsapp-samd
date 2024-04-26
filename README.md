@@ -13,7 +13,7 @@ Please feel free to join our whatsapp and linkedin groups by clicking the links 
 Most requests are improved within an hour or two.
 
 ## Members Group  
-You are also invited to join the private members group and gain access to:
+You are also invited to join the [private members group](https://kochsamd.ch/join/) and gain access to:
 - a group of MedTech practicioners to gain support and advice to support you in your careers
 - weekly Zoom Calls on various topics relevant to Medical Device Software practicioners
 - targeted training sessions
