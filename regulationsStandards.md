@@ -1,18 +1,33 @@
 
-EU Languages Publication:
-- https://health.ec.europa.eu/publications/overview-language-requirements-manufacturers-medical-devices_en
+## International
 
-## QM System
+### ISO Standards  
 
-| Category | Standard        | Edition               | Title/Notes                                                                                                                  | Markets | SW or QMS |
-|----------|-----------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------|---------|-----------|
-| Standard | ISO 13485       | 2016                  | Medical devices — Quality managementsystems — Requirements for regulatory purposes                                           | All     | QMS       |
-| Standard | ISO 14971       | Third edition 2019-12 | Medical devices - Application of risk management to medical devices                                                          | All     | QMS SW    |
-| Standard | EN ISO 14971    | 43830                 | EN ISO 14971:2019/A11:2021 - Medical devices - Application of risk management to medical devices (ISO 14971:2019) + A11:2021 | EU      | QMS SW    |
-| Standard | ISO/TR 24971    | 43983                 | Medical devices — Guidance on the application of ISO 14971                                                                   | All     | QMS       |
-| Standard | ISO/TR 20416    | 44013                 | Medical Devices - Post-Market Surveillance For Manufacturers                                                                 | All     | SW        |
-| Standard | BS EN ISO 17100 | 43132                 | Translation services. Requirements for translation services (BS EN ISO 17100:2015+A1:2017)                                   | EU      | SW        |
-| Standard | ISO 19011       | 43282                 | Guidelines for auditing management systems                                                                                   | All     | QMS       |
+| Category | Standard        | Edition               | Title/Notes                                                                                                                  |
+|----------|-----------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Standard | ISO 13485       | 2016                  | Medical devices — Quality managementsystems — Requirements for regulatory purposes                                           |
+| Standard | ISO 14971       | Third edition 2019-12 | Medical devices - Application of risk management to medical devices                                                          |
+| Standard | EN ISO 14971    | 43830                 | EN ISO 14971:2019/A11:2021 - Medical devices - Application of risk management to medical devices (ISO 14971:2019) + A11:2021 |
+| Standard | ISO/TR 24971    | 43983                 | Medical devices — Guidance on the application of ISO 14971                                                                   |
+| Standard | ISO/TR 20416    | 44013                 | Medical Devices - Post-Market Surveillance For Manufacturers                                                                 |
+| Standard | BS EN ISO 17100 | 43132                 | Translation services. Requirements for translation services (BS EN ISO 17100:2015+A1:2017)                                   |
+| Standard | ISO 19011       | 43282                 | Guidelines for auditing management systems                                                                                   |
+
+### IMDRF
+
+| Category                                         | Standard                                        | Edition                                                                                                     |
+|--------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| imdrf-tech-170921-samd-n41-clinical-evaluation_1 | 21.09.2017                                      | imdrf-tech-170921-samd-n41-clinical-evaluation_1                                                            |
+| imdrf-tech-181031-grrp-essential-principles-n47 | 31.10.2018                                       | Essential Principles of Safety and Performance of MD and IDV MD                                             | 
+| imdrf-tech-190321-labelling                     | 21.03.2019                                       | imdrf-tech-190321-labelling                                                                                 | 
+| imdrf-tech-190321-udi-sag                       | 21.03.2019                                       | imdrf-tech-190321-udi-sag                                                                                   | 
+| imdrf-tech-191010-ClinicalEvaluation            | 10.10.2019                                       | imdrf-tech-191010-ClinicalEvaluation                                                                        | 
+| imdrf-tech-191010-ClinicalEvidence              | 10.10.2019                                       | imdrf-tech-191010-ClinicalEvidence                                                                          | 
+| imdrf-tech-200318-Cybersecurity                 | 18.03.20                                         | imdrf-tech-200318-Cybersecurity                                                                             | 
+| IMDRF/SaMD WG/N23 FINAL: 2015                   | 42279                                            | Software as a Medical Device (SaMD): Application of Quality Management System                               | 
+| imdrf-tech-210325-PMCF_Studies                  | 25.03.21                                         | imdrf-tech-210325-PMCF_Studies                                                                              | 
+| IMDRF/SaMD WG/N10FINAL:2013                     | 41617                                            | Software as a Medical Device (SaMD): Key Definitions                                                        | 
+| IMDRF/SaMD WG/N12FINAL:2014                     | 41900                                            | "Software as a Medical Device": Possible Framework for Risk Categorization and Corresponding Considerations | 
 
 ## Devices
 | Category | Standard | Edition | Title/Notes | Market | 
@@ -53,57 +68,50 @@ EU Languages Publication:
 |          | Corr 2016 - Medical devices - Part 1: Application of usability engineering to medical devices                                                                                                                                                                                    | All                            | SW"                                                                                                                                                                                                                                                                    |                                                                                            |                         |
 | S        | IEC/TR 62366-2                                                                                                                                                                                                                                                                   | Ed. 1.0: 2016                  | Medical devices - Part 2: Guidance on the application of usability engineering to medical devices                                                                                                                                                                      | All                                                                                        | SW                      |
 | "        | G                                                                                                                                                                                                                                                                                | 01_MDCG_2020-1                 | 2020-03                                                                                                                                                                                                                                                                | Guidance on Clinical Evaluation                                                            |                         |
+  | G   | Guidance_Postmarket Management of Cybersecurity_Dec2016 | 42732      | Guidance_Postmarket Management of Cybersecurity_Dec2016                                                                        | US  | SW  |
+  | G   | Software Validation                                     | 37267      | General Principles of Software                                                                                                 | US  | SW  |
+  |     |                                                         |            | Validation; Final Guidance for Industry and FDA Staff                                                                                                         |   US  |     |
+  | G   | SW_Guidance                                             | 43036      | SW_Guidance                                                                                                                    | US  | SW  |
+
+
+## EU
+
+
+
+EU Languages Publication:
+- https://health.ec.europa.eu/publications/overview-language-requirements-manufacturers-medical-devices_en
 
 (MDR) / Performance Evaluation 
 (IVDR) of Medical Device Software| EU| SW"
-| G| MDCG_2021-1| 2021-05| 01_MDCG_2021-1_guidance-administrative-practices_en| EU| QMS
-| G| MDCG_2020-7| 2020-04| 03_MDCG_2020-7 Guidance on PMCF Plan Template| EU| SW
-| G| MDCG_2021-3| 2021-03| 03_MDCG_2021-3_Custom-made_en| EU| 
-| G| MDCG_2019_4| 2019-04| 04_MDCG_2019_4_devices_registration_eudamed_en| EU| QMS
-| G| MDCG_2020-8| 2020-04| 04_MDCG_2020-8 Guidance on PMCF Evaluation Report Template| EU| SW
-| G| MDCG_2019_5| 2019-04| 05_MDCG_2019_5_legacy_devices_registration_eudamed_en| EU| SW
-| G| MDCG_2020-5 | 2020-04| 05_MDCG_2020-5 Guidance on Clinical Evaluation - Equivalence| EU| SW
-| G| MDCG_2021_5| 2021-04| 05_MDCG_2021_5_standardisation_en| EU| SW
-| G| MDCG_2020-6 | 2020-04| 06_MDCG_2020-6 Guidance on Sufficient Clinical Evidence for Legacy Devices| EU| SW
-| G| MDCG_2021-12| 2021-05| 12_MDCG_2021-12_EU_Nomenclature_en| EU| SW
-| G| MDCG_2021-13| 2021-07| 13_MDCG_2021-13_q-a-actor_registr_eudamed_en| EU| QMS
-| G| MDCG_2020-15| 2020-08| 15_MDCG_2020-15-position-paper-actor-registration-module_en| EU| QMS
-| G| MDCG 2019-11| 43757| Guidance on Qualification and Classification of Software in Regulation (EU) 2017/745 – MDR and Regulation (EU) 2017/746 – IVDR | EU| QMS
-| G| MDCG 2021-24| 2021-10| Guidance on classification of medical devices| EU| SW
-| G| MDCG_2019-16| 2019-12| Guidance on cybersecurity for medical devices| EU| SW
-| G| MDCG 2020-10/1 Rev.1| 2022-10| Guidance on safety reporting in clinical investigations| EU| SW
-| | | | Appendix: Clinical investigation summary safety report form| | 
-| G| MDCG 2022-21| 2022-12| GUIDANCE ON PERIODIC SAFETY UPDATE| EU| SW
-| | | | REPORT (PSUR) ACCORDING TO REGULATION  (EU) 2017/745 (MDR)| | 
-| G| MDCG 2021-08| 2021-05| Clinical investigation application/notification| EU| SW
-| | | | documents| | 
-| G| MDCG 2022-7| 2022-05| MDCG 2022-7 – Questions and| EU| SW
-| | | | Answers on the Unique Device| | 
-| | | | Identification system under| | 
-| | | | Regulation (EU) 2017/745 and| | 
-| | | | Regulation (EU) 2017/746| | 
-| G| MDCG 2022-16| 2022-10| Guidance on Authorised Representatives Regulation (EU)| EU| SW
-| | | | 2017/745 on medical devices (MDR) and Regulation (EU)| | 
-| | | | 2017/746 on in vitro diagnostic medical devices (IVDR)| | 
-| G| Guidance_Postmarket Management of Cybersecurity_Dec2016| 42732| Guidance_Postmarket Management of Cybersecurity_Dec2016| US| SW
-| G| Software Validation| 37267| General Principles of Software| US| SW
-| | | | Validation; Final Guidance for| | 
-| | | | Industry and FDA Staff| | 
-| G| SW_Guidance| 43036| SW_Guidance| US| SW
-| G| MEDDEV_2_7_1_rev4| 2016-01| _ClinicalEvaluation_en| EU| SW
-| G| imdrf-tech-170921-samd-n41-clinical-evaluation_1| 21.09.2017| imdrf-tech-170921-samd-n41-clinical-evaluation_1| All| SW
-| | imdrf-tech-181031-grrp-essential-principles-n47| 31.10.2018| Essential Principles of Safety and Performance of MD and IDV MD| All| SW
-| G| imdrf-tech-190321-labelling| 21.03.2019| imdrf-tech-190321-labelling| All| SW
-| G| imdrf-tech-190321-udi-sag| 21.03.2019| imdrf-tech-190321-udi-sag| All| SW
-| G| imdrf-tech-191010-ClinicalEvaluation| 10.10.2019| imdrf-tech-191010-ClinicalEvaluation| All| SW
-| G| imdrf-tech-191010-ClinicalEvidence| 10.10.2019| imdrf-tech-191010-ClinicalEvidence| All| SW
-| G| imdrf-tech-200318-Cybersecurity| 18.03.20| imdrf-tech-200318-Cybersecurity| All| SW
-| G| IMDRF/SaMD WG/N23 FINAL: 2015| 42279| Software as a Medical Device (SaMD): Application of Quality| All| SW
-| | | | Management System | | 
-| G| imdrf-tech-210325-PMCF_Studies| 25.03.21| imdrf-tech-210325-PMCF_Studies| All| SW
-| G| IMDRF/SaMD WG/N10FINAL:2013 | 41617| Software as a Medical Device (SaMD): Key Definitions| All| SW
-| G| IMDRF/SaMD WG/N12FINAL:2014 | 41900| "Software as a Medical Device": Possible Framework for| All| SW
-| | | | Risk Categorization and Corresponding Considerations | | 
+### MDCG
+
+| Reference            | Version | Title                                                                                                                                                               | 
+|----------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MDCG_2021-1          | 2021-05 | 01_MDCG_2021-1_guidance-administrative-practices_en                                                                                                                 |
+| MDCG_2020-7          | 2020-04 | 03_MDCG_2020-7 Guidance on PMCF Plan Template                                                                                                                       |
+| MDCG_2021-3          | 2021-03 | 03_MDCG_2021-3_Custom-made_en                                                                                                                                       |
+| MDCG_2019_4          | 2019-04 | 04_MDCG_2019_4_devices_registration_eudamed_en                                                                                                                      |
+| MDCG_2020-8          | 2020-04 | 04_MDCG_2020-8 Guidance on PMCF Evaluation Report Template                                                                                                          |
+| MDCG_2019_5          | 2019-04 | 05_MDCG_2019_5_legacy_devices_registration_eudamed_en                                                                                                               |
+| MDCG_2020-5          | 2020-04 | 05_MDCG_2020-5 Guidance on Clinical Evaluation - Equivalence                                                                                                        |
+| MDCG_2021_5          | 2021-04 | 05_MDCG_2021_5_standardisation_en                                                                                                                                   |
+| MDCG_2020-6          | 2020-04 | 06_MDCG_2020-6 Guidance on Sufficient Clinical Evidence for Legacy Devices                                                                                          |
+| MDCG_2021-12         | 2021-05 | 12_MDCG_2021-12_EU_Nomenclature_en                                                                                                                                  |
+| MDCG_2021-13         | 2021-07 | 13_MDCG_2021-13_q-a-actor_registr_eudamed_en                                                                                                                        |
+| MDCG_2020-15         | 2020-08 | 15_MDCG_2020-15-position-paper-actor-registration-module_en                                                                                                         |
+| MDCG 2019-11         | 43757   | Guidance on Qualification and Classification of Software in Regulation (EU) 2017/745 – MDR and Regulation (EU) 2017/746 – IVDR                                      |
+| MDCG 2021-24         | 2021-10 | Guidance on classification of medical devices                                                                                                                       |
+| MDCG_2019-16         | 2019-12 | Guidance on cybersecurity for medical devices                                                                                                                       |
+| MDCG 2020-10/1 Rev.1 | 2022-10 | Guidance on safety reporting in clinical investigations<br/>Appendix: Clinical investigation summary safety report form                                             |
+| MDCG 2022-21         | 2022-12 | GUIDANCE ON PERIODIC SAFETY UPDATE  REPORT (PSUR) ACCORDING TO REGULATION  (EU) 2017/745 (MDR)                                                                      |
+| MDCG 2021-08         | 2021-05 | Clinical investigation application/notification documents                                                                                                           |
+| MDCG 2022-7          | 2022-05 | Questions and Answers on the Unique Device Identification system under Regulation (EU) 2017/745 and Regulation (EU) 2017/746                                        |
+| MDCG 2022-16         | 2022-10 | Guidance on Authorised Representatives Regulation (EU) 2017/745 on medical devices (MDR) and Regulation (EU) 2017/746 on in vitro diagnostic medical devices (IVDR) |
+
+
+| G   | MEDDEV_2_7_1_rev4                                       | 2016-01    | _ClinicalEvaluation_en                                                                                                         | EU  | SW  |
+
+
 
 ## Mexico
 - Labelling Requirements https://www.dof.gob.mx/nota_detalle.php?codigo=5724246&fecha=23/04/2024&print=true
