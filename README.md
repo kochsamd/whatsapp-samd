@@ -5,7 +5,8 @@ This is a Repository for public information compiled to be useful to Professiona
 
 To be a contributor please contact me via:
 - [SaMD with Richard Koch whatsapp group](https://chat.whatsapp.com/LQ89hRbANFkD47kfWd3yNB); or
-- [open an issue](https://github.com/kochsamd/whatsapp-samd/issues
+- [open an issue](https://github.com/kochsamd/whatsapp-samd/issues)
+
 ## Whatsapp Group
 Please feel free to join our whatsapp and linkedin groups by clicking the links below:
 
