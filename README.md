@@ -1,5 +1,5 @@
 # whatsapp-samd
-Welcome to the public repository for the [SaMD with Richard Koch whatsapp group](https://chat.whatsapp.com/LQ89hRbANFkD47kfWd3yNB) and the [Medical Device Softwrare Netrwork Private Group](https://kochsamd.ch/join/)
+Welcome to the public repository for the [SaMD with Richard Koch whatsapp group](https://chat.whatsapp.com/LQ89hRbANFkD47kfWd3yNB) and the [Medical Device Software Network Private Group](https://kochsamd.ch/join/)
 
 This is a Repository for public information compiled to be useful to Professionals working with Medical Device Software, SaMD, SiMD, PEMS etc. 
 
