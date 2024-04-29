@@ -105,7 +105,8 @@ EU Languages Publication: https://health.ec.europa.eu/publications/overview-lang
 | [IvDO SR 812.219](https://www.fedlex.admin.ch/eli/cc/2022/291/en) | | Ordinance on In Vitro Diagnostic Medical Devices |
 | FADP                             | 1992                                                   | Federal Act on Data Protection (FADP)                                                 |
 | Medical Devices Act              | 26 May 2022                                            |                                                                                       |
-| Clinical Trials Ordinance, ClinO | [2021](https://www.fedlex.admin.ch/eli/cc/2013/643/en) | Ordinance on Clinical Trials with the exception of Clinical Trials of Medical Devices |                                   
+| Clinical Trials Ordinance, ClinO | [2021](https://www.fedlex.admin.ch/eli/cc/2013/643/en) | Ordinance on Clinical Trials with the exception of Clinical Trials of Medical Devices | 
+| [Information Sheet Medical Device Software](https://www.swissmedic.ch/dam/swissmedic/en/dokumente/medizinprodukte/mep_urr/bw630_30_007d_mbmedizinprodukte-software.pdf.download.pdf/BW630_30_007e_MB%20Medical%20Device%20Software.pdf) | 3.0 10.04.2024| BW630_30_007 | 
 
 ## Taiwan  
 
