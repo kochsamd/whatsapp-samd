@@ -100,8 +100,9 @@ EU Languages Publication: https://health.ec.europa.eu/publications/overview-lang
 
 | Reference                        | Version                                                | Edition                                                                               |
 |----------------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------|
-| TPA                              | 2021                                                   | Federal Act on Medicinal Products and Medical Devices (TPA)                           |
-| MEdDo                            | 2021                                                   | Medical Device Ordinance (MEdDo)                                                      |
+| [TPA](https://www.swissmedic.ch/swissmedic/en/home/legal/legal-basis.html)                              | 2021                                                   | Federal Act on Medicinal Products and Medical Devices (Therapeutic Products Act,TPA)                           |
+| MEdDo   SR 812.213 | 2021                                                   | Medical Device Ordinance (MEdDo)                                                      |
+| IvDO SR 812.219 | | Ordinance on In Vitro Diagnostic Medical Devices |
 | FADP                             | 1992                                                   | Federal Act on Data Protection (FADP)                                                 |
 | Medical Devices Act              | 26 May 2022                                            |                                                                                       |
 | Clinical Trials Ordinance, ClinO | [2021](https://www.fedlex.admin.ch/eli/cc/2013/643/en) | Ordinance on Clinical Trials with the exception of Clinical Trials of Medical Devices |                                   
