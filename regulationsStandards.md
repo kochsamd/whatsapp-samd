@@ -52,6 +52,15 @@
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------|
 | Federal Law n. 6360/76<br/>RDC ANVISA n. 16/2013 - Good Manufacturing Practices<br/>RDC ANVISA n. 23/2012<br/>RDC ANVISA n. 67/2009 - Vigilance<br/>RDC ANVISA n. 56/2001 - Essential Requirements for Safety and Effectiveness | September 23, 1976 | Law nº 6.360, of September 23, 1976 |
 
+## Canada  
+
+| Reference | Version | Title |
+|:---|:---|:---|
+| CMDR [SOR/98-282](https://laws-lois.justice.gc.ca/eng/regulations/sor-98-282/) | 01.03.2024 | Medical Device Regulations |
+| Amendment [SOR/2020-262](https://gazette.gc.ca/rp-pr/p2/2020/2020-12-23/html/sor-dors262-eng.html) | 04.12.2020 | Regulations Amending the Food and Drug Regulations and the Medical Devices Regulations (Post-market Surveillance of Medical Devices): | 
+
+Regulations Amending the Food and Drug Regulations and the Medical Devices Regulations (Post-market Surveillance of Medical Devices):
+
 ## EU
 
 EU Languages Publication: https://health.ec.europa.eu/publications/overview-language-requirements-manufacturers-medical-devices_en
@@ -119,14 +128,18 @@ EU Languages Publication: https://health.ec.europa.eu/publications/overview-lang
 
 ### CFR
 | Reference       | Version          | Edition                                                                                    |
-|-----------------|------------------|--------------------------------------------------------------------------------------------|
+|:-----------------|:------------------|:--------------------------------------------------------------------------------------------|
 | 21 CFR Part 801 | 22.Oct.2022      | Labeling                                                                                   |
-| 21 CRF Part 820 | 2022-03-29       | QMS regulation US                                                                          |
+| 21 CFF Part 820 | 2022-03-29       | QMS regulation US                                                                          |
 | 45 CFR PART 160 |
 | 45 CFR PART 164 |
-| CFR PART 162    | January 25, 2013 | Standards for Privacy of Individually Identifiable Health Information (HIPAA Privacy Rule) | 
+| 45 CFR PART 162 | January 25, 2013 | Standards for Privacy of Individually Identifiable Health Information (HIPAA Privacy Rule) | 
 | SMDA            | 35600                          | Safe Medical Devices Act of 1990 FDA Modernization Act of 1997                             |
-| CMDR (SOR/98-282) (SOR/2020-262)| 44979| Medical Device Regulations                                                                 |
+
+### FD&C Act  
+| Reference       | Version          | Edition                                                                                    |
+|:-----------------|:------------------|:--------------------------------------------------------------------------------------------|
+| [Section 524B](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/select-updates-premarket-cybersecurity-guidance-section-524b-fdc-act) | Draft 03.2024 | Select Updates for the Premarket Cybersecurity Guidance: Section 524B of the FD&C Act, Draft Guidance for Industry and Food and Drug Administration Staff |
 
 ### Guidances
 
