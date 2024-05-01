@@ -1,6 +1,9 @@
 # 2024 events
 
 ## Week 18
+#### Webinar | Drug in the US, device in the EU: Navigating Combined Registrations
+Thursday May 2nd
+[Join on Linkedin](https://www.linkedin.com/events/drugintheus-deviceintheeu-navig7188845657573511168/comments/)
 
 ## Week 19
 
