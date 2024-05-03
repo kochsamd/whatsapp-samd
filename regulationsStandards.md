@@ -25,6 +25,7 @@
 | IEC 82304-1                         | 2016-10               | Health software -- Part 1: General requirements for product safety  Ed 1                                                                                          |
 | IEC 62366-1                         | Ed. 1.0: 2015         | Corr 2016 - Medical devices - Part 1: Application of usability engineering to medical devices                                                                     | 
 | IEC/TR 62366-2                      | Ed. 1.0: 2016         | Medical devices - Part 2: Guidance on the application of usability engineering to medical devices                                                                 | 
+| ISO/IEC TR 29119-6:2021 | Ed. 1.0: 2021-07 | Software and systems engineering — Software testing — Part 6: Guidelines for the use of ISO/IEC/IEEE 29119 (all parts) in agile projects |
 
 ### IMDRF  
 
